@@ -32,8 +32,9 @@ governance and planning.
 :maxdepth: 2
 
 team/index
-index-team_policies
-index-team_guides
+info/index
+policies/index
+guides/index
 ```
 
 ## Why have a Team Compass?

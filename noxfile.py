@@ -7,9 +7,9 @@ def docs(session):
     """
     Build the documentation.
     """
-    doc_build_default_args = ["-b", "dirhtml", "docs", "docs/_build/html"]
+    doc_build_default_args = ["-b", "dirhtml", "docs/source", "docs/build/html"]
 
-    session.install("-r", "docs/requirements.txt")
+    session.install("-r", "docs/source/requirements.txt")
     
     if "live" in session.posargs or (session.interactive and "only-build" not in session.posargs):
         # For live preview, sphinx-autobuild is used.

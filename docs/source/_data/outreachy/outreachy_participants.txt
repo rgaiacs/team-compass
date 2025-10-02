@@ -1,0 +1,209 @@
+### December, 2022
+
+#### Interns
+
+`````{grid} 1 2 3 3
+:gutter: 3
+:class-container: contributor-grid
+
+
+````{grid-item-card}
+:class-header: bg-light
+:text-align: center
+
+**Allan Wasega**
+
+^^^
+
+```{image} https://github.com/alwasega.png?size=125
+```
+
+[@alwasega](https://github.com/alwasega)
+
++++
+[Read their blog!](https://alwasega.substack.com/)
+````
+
+````{grid-item-card}
+:class-header: bg-light
+:text-align: center
+
+**Ogoh Blessing Onyowoicho**
+
+^^^
+
+```{image} https://github.com/bl-aire.png?size=125
+```
+
+[@bl-aire](https://github.com/bl-aire)
+
++++
+[Read their blog!](https://blaire.hashnode.dev/)
+````
+
+````{grid-item-card}
+:class-header: bg-light
+:text-align: center
+
+**Sheila Kahwai**
+
+^^^
+
+```{image} https://github.com/Sheila-nk.png?size=125
+```
+
+[@Sheila-nk](https://github.com/Sheila-nk)
+
++++
+[Read their blog!](https://sheiblogs.hashnode.dev/)
+````
+
+`````
+
+#### Community members
+
+`````{grid} 1 2 3 3
+:gutter: 3
+:class-container: contributor-grid
+
+
+````{grid-item-card}
+:class-header: bg-light
+:text-align: center
+
+**Georgiana Dolocan**
+
+^^^
+
+```{image} https://github.com/GeorgianaElena.png?size=125
+```
+
+[@GeorgianaElena](https://github.com/GeorgianaElena)
+
++++
+mentor
+````
+
+````{grid-item-card}
+:class-header: bg-light
+:text-align: center
+
+**Min Ragan-Kelley**
+
+^^^
+
+```{image} https://github.com/minrk.png?size=125
+```
+
+[@minrk](https://github.com/minrk)
+
++++
+mentor
+````
+
+````{grid-item-card}
+:class-header: bg-light
+:text-align: center
+
+**Sarah Gibson**
+
+^^^
+
+```{image} https://github.com/sgibson91.png?size=125
+```
+
+[@sgibson91](https://github.com/sgibson91)
+
++++
+mentor, community coordinator
+````
+
+`````
+### December, 2018
+
+#### Interns
+
+`````{grid} 1 2 3 3
+:gutter: 3
+:class-container: contributor-grid
+
+
+````{grid-item-card}
+:class-header: bg-light
+:text-align: center
+
+**Georgiana Dolocan**
+
+^^^
+
+```{image} https://github.com/GeorgianaElena.png?size=125
+```
+
+[@GeorgianaElena](https://github.com/GeorgianaElena)
+
++++
+
+````
+
+````{grid-item-card}
+:class-header: bg-light
+:text-align: center
+
+**Leticia Portella**
+
+^^^
+
+```{image} https://github.com/leportella.png?size=125
+```
+
+[@leportella](https://github.com/leportella)
+
++++
+
+````
+
+`````
+
+#### Community members
+
+`````{grid} 1 2 3 3
+:gutter: 3
+:class-container: contributor-grid
+
+
+````{grid-item-card}
+:class-header: bg-light
+:text-align: center
+
+**Min Ragan-Kelley**
+
+^^^
+
+```{image} https://github.com/minrk.png?size=125
+```
+
+[@minrk](https://github.com/minrk)
+
++++
+mentor
+````
+
+````{grid-item-card}
+:class-header: bg-light
+:text-align: center
+
+**Yuvi Panda**
+
+^^^
+
+```{image} https://github.com/yuvipanda.png?size=125
+```
+
+[@yuvipanda](https://github.com/yuvipanda)
+
++++
+mentor, community coordinator
+````
+
+`````
+

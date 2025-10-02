@@ -1,0 +1,324 @@
+
+.. grid:: 1 2 3 3
+   :gutter: 3
+   :class-container: contributor-grid
+
+
+   .. grid-item-card::
+      :class-header: bg-light
+      :text-align: center
+      :link: https://github.com/damianavila
+
+      **Damian Avila**
+
+      ^^^
+
+      .. image:: https://github.com/damianavila.png?size=125
+
+      `@damianavila <https://github.com/damianavila>`_
+
+      💬, communities
+
+      **JupyterHub Council**
+
+      +++
+      Project Jupyter, 2i2c and UMSI
+
+
+   .. grid-item-card::
+      :class-header: bg-light
+      :text-align: center
+      :link: https://github.com/GeorgianaElena
+
+      **Georgiana Dolocan**
+
+      ^^^
+
+      .. image:: https://github.com/GeorgianaElena.png?size=125
+
+      `@GeorgianaElena <https://github.com/GeorgianaElena>`_
+
+      💻
+
+      **JupyterHub Council**
+
+      +++
+      2i2c
+
+
+   .. grid-item-card::
+      :class-header: bg-light
+      :text-align: center
+      :link: https://github.com/choldgraf
+
+      **Chris Holdgraf**
+
+      ^^^
+
+      .. image:: https://github.com/choldgraf.png?size=125
+
+      `@choldgraf <https://github.com/choldgraf>`_
+
+      💻, 🤔, 📖, 💬
+
+      **JupyterHub Council**
+
+      +++
+      2i2c
+
+
+   .. grid-item-card::
+      :class-header: bg-light
+      :text-align: center
+      :link: https://github.com/ivanov
+
+      **Paul Ivanov**
+
+      ^^^
+
+      .. image:: https://github.com/ivanov.png?size=125
+
+      `@ivanov <https://github.com/ivanov>`_
+
+      🤔, 💬
+
+
+
+      +++
+      Project Jupyter
+
+
+   .. grid-item-card::
+      :class-header: bg-light
+      :text-align: center
+      :link: https://github.com/manics
+
+      **Simon Li**
+
+      ^^^
+
+      .. image:: https://github.com/manics.png?size=125
+
+      `@manics <https://github.com/manics>`_
+
+      💻, 💬
+
+      **JupyterHub Council**
+
+      +++
+      University of Dundee
+
+
+   .. grid-item-card::
+      :class-header: bg-light
+      :text-align: center
+      :link: https://github.com/ryanlovett
+
+      **Ryan Lovett**
+
+      ^^^
+
+      .. image:: https://github.com/ryanlovett.png?size=125
+
+      `@ryanlovett <https://github.com/ryanlovett>`_
+
+      💻, 💬
+
+      **JupyterHealth**
+
+      +++
+      UC Berkeley
+
+
+   .. grid-item-card::
+      :class-header: bg-light
+      :text-align: center
+      :link: https://github.com/yuvipanda
+
+      **Yuvi Panda**
+
+      ^^^
+
+      .. image:: https://github.com/yuvipanda.png?size=125
+
+      `@yuvipanda <https://github.com/yuvipanda>`_
+
+      💻, 🚇
+
+      **JupyterHub Council**, **JupyterHealth**
+
+      +++
+      UC Berkeley
+
+
+   .. grid-item-card::
+      :class-header: bg-light
+      :text-align: center
+      :link: https://github.com/fperez
+
+      **Fernando Pérez**
+
+      ^^^
+
+      .. image:: https://github.com/fperez.png?size=125
+
+      `@fperez <https://github.com/fperez>`_
+
+      funding, vision, large-usage settings, scientific communities
+
+      **JupyterHub Council**, **JupyterHealth**
+
+      +++
+      UC Berkeley, LBL
+
+
+   .. grid-item-card::
+      :class-header: bg-light
+      :text-align: center
+      :link: https://github.com/minrk
+
+      **Min Ragan-Kelley**
+
+      ^^^
+
+      .. image:: https://github.com/minrk.png?size=125
+
+      `@minrk <https://github.com/minrk>`_
+
+      💻, 🚇
+
+      **JupyterHub Council**, **JupyterHealth**
+
+      +++
+      UC Berkeley
+
+
+   .. grid-item-card::
+      :class-header: bg-light
+      :text-align: center
+      :link: https://github.com/idasim
+
+      **Ida Sim**
+
+      ^^^
+
+      .. image:: https://github.com/idasim.png?size=125
+
+      `@idasim <https://github.com/idasim>`_
+
+      🤔, medicine
+
+      **JupyterHealth**
+
+      +++
+      UCSF, UC Berkeley
+
+
+   .. grid-item-card::
+      :class-header: bg-light
+      :text-align: center
+      :link: https://github.com/consideRatio
+
+      **Erik Sundell**
+
+      ^^^
+
+      .. image:: https://github.com/consideRatio.png?size=125
+
+      `@consideRatio <https://github.com/consideRatio>`_
+
+      💻, 🚇
+
+      **JupyterHub Council**
+
+      +++
+      Sundell Open Source
+
+
+   .. grid-item-card::
+      :class-header: bg-light
+      :text-align: center
+      :link: https://github.com/willingc
+
+      **Carol Willing**
+
+      ^^^
+
+      .. image:: https://github.com/willingc.png?size=125
+
+      `@willingc <https://github.com/willingc>`_
+
+      Python, Open Source Governance, Leadership and strategic planning, vision
+
+      **JupyterHub Council**
+
+      +++
+      Willing Consulting
+
+
+   .. grid-item-card::
+      :class-header: bg-light
+      :text-align: center
+      :link: https://github.com/maryamv
+
+      **Maryam Vareth**
+
+      ^^^
+
+      .. image:: https://github.com/maryamv.png?size=125
+
+      `@maryamv <https://github.com/maryamv>`_
+
+      🤔, 🔍
+
+      **JupyterHealth**
+
+      +++
+      UC Berkeley
+
+
+   .. grid-item-card::
+      :class-header: bg-light
+      :text-align: center
+      :link: https://github.com/rpwagner
+
+      **Rick Wagner**
+
+      ^^^
+
+      .. image:: https://github.com/rpwagner.png?size=125
+
+      `@rpwagner <https://github.com/rpwagner>`_
+
+      🔐
+
+      **security**
+
+      +++
+      Jupyter Security
+
+
+   .. grid-item-card::
+      :class-header: bg-light
+      :text-align: center
+      :link: https://github.com/dlqqq
+
+      **David Qiu**
+
+      ^^^
+
+      .. image:: https://github.com/dlqqq.png?size=125
+
+      `@dlqqq <https://github.com/dlqqq>`_
+
+      🔐
+
+      **security**
+
+      +++
+      AWS
+
+Inactive Team members
+^^^^^^^^^^^^^^^^^^^^^
+
+**Sarah Gibson** (`@sgibson91 <https://github.com/sgibson91>`_), **Matthias Busonnier** (`@carreau <https://github.com/carreau>`_), **Jessica Forde** (`@jzf2101 <https://github.com/jzf2101>`_), **Tim Head** (`@betatim <https://github.com/betatim>`_), **Lindsey Heagy** (`@lheagy <https://github.com/lheagy>`_), **M Pacer** (`@mpacer <https://github.com/mpacer>`_), **Zach Sailer** (`@Zsailer <https://github.com/Zsailer>`_)

@@ -1,6 +1,6 @@
 # Useful skills and ways to contribute
 
-There are many ways that you can contribute to the JupyterHub / Binder projects.
+There are many ways that you can contribute to the JupyterHub project and it's activities (for example, mybinder.org).
 This page suggests some pathways for community members to learn new skills and
 share their skills with the team.
 

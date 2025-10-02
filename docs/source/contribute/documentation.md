@@ -3,9 +3,9 @@
 All of the team's repositories are documented using [the Sphinx documentation engine](https://sphinx-doc.org).
 This page contains resources to help you understand Sphinx and the configurations we commonly use in our repositories.
 
-## MyST Markdown
+## Markdown
 
-Many of our repositories use [MyST Markdown](https://myst-parser.readthedocs.io).
+We document our repositories using a variant of Markdown called [MyST](https://myst-parser.readthedocs.io).
 This is enabled via the [`myst-parser` Sphinx extension](https://myst-parser.readthedocs.io).
 
 ## reStructuredText
